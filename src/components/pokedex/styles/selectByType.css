@@ -9,6 +9,7 @@
   -moz-appearance: none;
   appearance: none;
   cursor: pointer;
+  text-transform: capitalize;
 }
 
 .pokedex__select::-webkit-scrollbar {
